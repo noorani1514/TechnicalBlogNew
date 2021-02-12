@@ -6,6 +6,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import technicalblog.model.Post;
 import technicalblog.service.PostService;
+
+import java.sql.SQLException;
 import java.util.ArrayList;
 
 
@@ -20,7 +22,7 @@ public class HomeController {
     private PostService postService;
 
     @RequestMapping("/")
-    public String getAllPosts(Model model) {
+    public String getAllPosts(Model model) throws SQLException {
 
         ArrayList<Post> posts = postService.getAllPosts();
         model.addAttribute("posts",posts);
