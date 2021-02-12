@@ -50,6 +50,8 @@ public class PostService {
         posts.add(post1);
 
         return posts;
+    }
 
+    public void createPost (Post newPost){
     }
 }
