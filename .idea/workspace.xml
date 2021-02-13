@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4ccd1cb-2f4b-4b16-9419-bc75ae9e7b4b" name="Default" comment="Added Note for Thymeleaf">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/technicalblog/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/technicalblog/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/technicalblog/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/technicalblog/controller/PostController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/technicalblog/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/technicalblog/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/technicalblog/service/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/technicalblog/service/PostService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/technicalblog/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/technicalblog/controller/HomeController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/technicalblog/service/PostService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/technicalblog/service/PostService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/technicalblog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/technicalblog.iml" afterDir="false" />
     </list>
@@ -24,8 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -162,6 +158,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -221,7 +228,8 @@
       <workItem from="1613050015516" duration="6000" />
       <workItem from="1613050066354" duration="13567000" />
       <workItem from="1613113420731" duration="5606000" />
-      <workItem from="1613160082111" duration="2933000" />
+      <workItem from="1613160082111" duration="3030000" />
+      <workItem from="1613198900151" duration="4852000" />
     </task>
     <task id="LOCAL-00001" summary="Added Note for Thymeleaf">
       <created>1613064270462</created>

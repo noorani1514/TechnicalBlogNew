@@ -26,6 +26,7 @@ public class PostService {
                 Post post = new Post();
                 post.setTitle(rs.getString("title"));
                 post.setBody(rs.getString("body"));
+                post.setDate(post.getDate());
                 posts.add(post);
             }
         } catch (ClassNotFoundException | SQLException e) {
